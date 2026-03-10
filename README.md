@@ -1,2 +1,176 @@
 # Alejdmc.github.io
 Políticas de privacidad y contacto Carrera Arango.
+
+Política de Privacidad:
+
+1. Introducción:
+
+La presente Política de Privacidad describe cómo Carrera Arango S.A.S. recopila, utiliza, almacena y protege la información obtenida a través de la aplicación móvil.
+
+Esta Aplicación está diseñada para gestionar formularios vehiculares con fines operativos internos y administrativos de la empresa.
+
+Responsable del tratamiento de datos:
+Carrera Arango S.A.S.
+Correo de contacto: mmorales@carrera-arango.com
+
+Al utilizar la Aplicación, el usuario acepta las prácticas descritas en esta política.
+
+
+2. Datos que recopilamos:
+
+La Aplicación puede recopilar las siguientes categorías de información:
+
+2.1 Datos personales:
+
+Información proporcionada voluntariamente por proveedores, clientes o usuarios al completar formularios dentro de la Aplicación, incluyendo:
+	•	Nombre
+	•	Correo electrónico
+	•	Número de identificación o cédula
+	•	Otros datos ingresados en los formularios
+
+2.2 Datos del vehículo:
+
+Información relacionada con los vehículos gestionados en los formularios, tales como:
+	•	Marca
+	•	Número de chasis
+	•	Kilometraje
+	•	Fechas de registro
+	•	Otros campos incluidos en el formulario
+
+2.3 Fotografías y firmas
+
+La Aplicación permite adjuntar:
+	•	Fotografías relacionadas con el vehículo o el servicio
+	•	Firmas digitales necesarias para validar los formularios
+
+2.4 Datos técnicos
+
+Con el fin de garantizar el funcionamiento adecuado de la Aplicación, se pueden recopilar datos técnicos como:
+	•	Identificadores del dispositivo
+	•	Registros de uso
+	•	Información sobre errores o fallos del sistema
+	•	Datos mínimos de navegación necesarios para el funcionamiento de la Aplicación
+
+2.5 Almacenamiento local:
+
+La Aplicación puede almacenar temporalmente en el dispositivo del usuario:
+	•	Borradores de formularios
+	•	Registros temporales de trabajo
+
+Estos datos permanecen almacenados hasta que el usuario los elimine o la Aplicación los borre como parte de su funcionamiento.
+
+
+3. Finalidad del tratamiento de los datos:
+
+La información recopilada se utiliza exclusivamente para las siguientes finalidades:
+
+Operación de la Aplicación
+	•	Crear, almacenar y gestionar formularios vehiculares.
+	•	Permitir la consulta y recuperación de información registrada.
+
+Generación y envío de documentos
+	•	Generar documentos en formato PDF.
+	•	Enviar dichos documentos por correo electrónico a clientes o destinatarios internos.
+
+Soporte y mejora del servicio
+	•	Analizar errores técnicos.
+	•	Mejorar el rendimiento, seguridad y funcionalidad de la Aplicación.
+
+Integraciones técnicas
+	•	Almacenar y procesar información mediante servicios de backend.
+	•	Integración con herramientas externas para registro o sincronización de datos.
+
+
+4. Servicios de terceros:
+
+Para el funcionamiento de la Aplicación, pueden utilizarse servicios de terceros que procesan información en nombre de la empresa, incluyendo:
+	•	Supabase: almacenamiento de bases de datos, autenticación de usuarios y almacenamiento de archivos.
+	•	Servicios de correo electrónico (por ejemplo Resend): envío de correos electrónicos con documentos adjuntos.
+	•	Integraciones externas o webhooks: sincronización o registro de información en plataformas externas como hojas de cálculo (por ejemplo Google Sheets).
+
+Estos proveedores solo acceden a la información necesaria para prestar sus servicios y están sujetos a obligaciones de confidencialidad.
+
+
+5. Base legal del tratamiento:
+
+El tratamiento de datos personales se fundamenta en:
+	•	Ejecución de un servicio o relación contractual, necesario para el funcionamiento de la Aplicación.
+	•	Consentimiento del usuario, otorgado al ingresar datos en los formularios y utilizar la Aplicación.
+	•	Interés legítimo, para mantener, mejorar y garantizar la seguridad del servicio.
+
+
+6. Conservación de los datos:
+
+Los datos personales serán conservados únicamente durante el tiempo necesario para cumplir las finalidades descritas en esta política.
+	•	Datos almacenados localmente: se conservan hasta que el usuario los elimine o la Aplicación los borre automáticamente.
+	•	Datos almacenados en servidores o servicios externos: se conservan hasta que sean eliminados por solicitud del usuario, por políticas internas o por requerimientos legales aplicables.
+
+
+7. Seguridad de la información:
+
+La empresa adopta medidas técnicas y organizativas razonables para proteger la información contra accesos no autorizados, pérdida o alteración.
+
+Estas medidas incluyen, entre otras:
+	•	Comunicaciones seguras mediante HTTPS
+	•	Infraestructura protegida proporcionada por proveedores especializados
+	•	Restricción de acceso a los datos únicamente a personal autorizado
+
+No obstante, ningún sistema de transmisión o almacenamiento de datos es completamente seguro, por lo que no se puede garantizar una seguridad absoluta.
+
+
+8. Compartición de datos:
+
+La información podrá compartirse únicamente en los siguientes casos:
+
+Envío de documentos
+
+Cuando se generan y envían formularios en PDF, estos pueden ser enviados a:
+	•	Direcciones de correo electrónico proporcionadas en el formulario
+	•	Destinatarios internos definidos por la empresa
+
+Proveedores de servicios
+
+Con proveedores tecnológicos que prestan servicios necesarios para el funcionamiento de la Aplicación.
+
+La empresa no vende ni comercializa datos personales a terceros.
+
+
+9. Derechos de los usuarios
+
+Los usuarios pueden ejercer los siguientes derechos respecto a sus datos personales:
+	•	Acceso: solicitar información sobre los datos personales almacenados.
+	•	Rectificación: corregir información incorrecta o incompleta.
+	•	Supresión: solicitar la eliminación de datos personales cuando sea legalmente posible.
+	•	Portabilidad: recibir los datos en un formato estructurado cuando aplique.
+	•	Limitación u oposición al tratamiento, conforme a la normativa aplicable.
+
+Para ejercer estos derechos, el usuario puede contactar al responsable mediante los datos indicados en esta política.
+
+
+10. Menores de edad:
+
+La Aplicación no está dirigida a menores de edad.
+
+No recopilamos intencionalmente información personal de menores. En caso de detectar datos de un menor, estos serán eliminados tan pronto como sea posible.
+
+
+11. Transferencias internacionales de datos:
+
+Algunos proveedores de servicios utilizados por la Aplicación pueden procesar información fuera del país de residencia del usuario.
+
+En tales casos, se adoptarán las medidas contractuales y legales necesarias para garantizar un nivel adecuado de protección de los datos.
+
+
+12. Cambios en la política de privacidad:
+
+La empresa podrá actualizar esta Política de Privacidad en cualquier momento para reflejar cambios en la Aplicación o en la normativa aplicable.
+
+Las actualizaciones serán publicadas dentro de la Aplicación o en el sitio correspondiente. Se recomienda revisar periódicamente esta política.
+
+
+13. Contacto:
+
+Si tiene preguntas o desea ejercer sus derechos relacionados con la protección de datos, puede contactar a:
+
+Responsable de privacidad (Dev)
+Correo electrónico: danielmonroy038@gmail.com
