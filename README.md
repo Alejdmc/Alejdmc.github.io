@@ -16,7 +16,7 @@ Apple exige que las aplicaciones que recopilan o procesan información de usuari
 La política puede consultarse en la siguiente página pública:
 
 Privacy Policy  
-https://alejdmc.github.io/Politica-de-privacidad.html
+[https://alejdmc.github.io/Politica-de-privacidad.html](https://alejdmc.github.io/Politica-de-privacidad)
 
 ## Responsable del Tratamiento de Datos
 
